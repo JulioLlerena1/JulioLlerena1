@@ -1,36 +1,19 @@
-# Hola, soy Julio Llerena 
+# Mi sitio personal 
+Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis proyectos y mis intereses.
 
-Estudiante de la ESPOL.
+## Contenido 
+* [Información personal](#información-personal) 
+* [Proyectos](#proyectos) 
+* [Intereses](#intereses)
 
-## Proyectos destacados
+## Información personal 
+* Nombre: [Tu nombre] 
+* Ocupación: [Tu ocupación] 
+* Lugar de residencia: [Tu lugar de residencia] 
+* Sitio web: [Tu sitio web] 
 
-### SaaS CRM
-Breve descripción
+## Proyectos 
+* [Lista de tus proyectos] 
 
-### AI Chat App
-Breve descripción
-
-## Actualmente
-
-- Construyendo...
-- Aprendiendo...
-
-## Contacto
-
-LinkedIn
-Portafolio
-Email
-<!--
-**JulioLlerena1/JulioLlerena1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Intereses 
+* [Lista de tus intereses]
