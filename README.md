@@ -1,9 +1,25 @@
-# Repositorio de Julio Llerena 
+# Hola, soy Julio Llerena 
 
-## Proyectos de universidad:
+Estudiante de la ESPOL.
 
-- [Aplicacion de para planificar viajes por aeropuerto](https://github.com/JulioLlerena1/Proyecto-ED-Grupo-10)
+## Proyectos destacados
 
+### SaaS CRM
+Breve descripción
+
+### AI Chat App
+Breve descripción
+
+## Actualmente
+
+- Construyendo...
+- Aprendiendo...
+
+## Contacto
+
+LinkedIn
+Portafolio
+Email
 <!--
 **JulioLlerena1/JulioLlerena1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
