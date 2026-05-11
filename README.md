@@ -1,4 +1,8 @@
-## Hi there 👋
+# Repositorio de Julio Llerena 
+
+## Proyectos de universidad:
+
+- [Aplicacion de para planificar viajes por aeropuerto](https://github.com/JulioLlerena1/Proyecto-ED-Grupo-10)
 
 <!--
 **JulioLlerena1/JulioLlerena1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
