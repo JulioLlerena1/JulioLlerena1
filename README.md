@@ -1,19 +1,14 @@
 # Mi sitio personal 
 Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis proyectos y mis intereses.
 
-## Contenido 
-* [Información personal](#información-personal) 
-* [Proyectos](#proyectos) 
-* [Intereses](#intereses)
-
 ## Información personal 
-* Nombre: [Tu nombre] 
-* Ocupación: [Tu ocupación] 
-* Lugar de residencia: [Tu lugar de residencia] 
-* Sitio web: [Tu sitio web] 
+* Nombre: Julio Llerena
+* Ocupación: Ingeniero en Ciencias de la Computacion
+* Pais: Ecuador
 
 ## Proyectos 
-* [Lista de tus proyectos] 
+* Aplicacion para organizar viajes (https://github.com/JulioLlerena1/Proyecto-ED-Grupo-10)
+* Paguina web como CV (https://github.com/JulioLlerena1/curriculum)
 
 ## Intereses 
-* [Lista de tus intereses]
+* Ciberseguridad orientado a Blue Team (SOC/Forence)
